@@ -53,15 +53,13 @@ export default function DestinationsSection() {
 
                 {/* Buttons */}
                 <div className="absolute top-3 left-3 flex gap-2">
-                  {dest.featured && (
-                    <button
-                      className="w-8 h-8 rounded-full bg-cream-50/90 backdrop-blur-sm flex items-center justify-center"
-                      aria-label="Favorited"
-                      onClick={(e) => e.preventDefault()}
-                    >
-                      <Heart className="w-3.5 h-3.5 text-red-500 fill-red-500" />
-                    </button>
-                  )}
+                  <button
+                    className="w-8 h-8 rounded-full bg-cream-50/90 backdrop-blur-sm flex items-center justify-center"
+                    aria-label="Favorited"
+                    onClick={(e) => e.preventDefault()}
+                  >
+                    <Heart className="w-3.5 h-3.5 text-red-500 fill-red-500" />
+                  </button>
                 </div>
                 <div className="absolute top-3 right-3">
                   <button

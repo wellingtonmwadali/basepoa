@@ -45,7 +45,7 @@ export default function AboutPage() {
                 Perched in the Aberdare Foothills
               </h2>
               <p className="text-forest-700 text-base leading-relaxed mb-4" style={{ fontFamily: "var(--font-body)", fontWeight: 300 }}>
-                Tigoni is a captivating highland destination in Kiambu County, nestled at 2,200m above sea level in the lush foothills of the Aberdare Ranges. The area is best known for its sweeping tea estates, cool misty mornings, and a way of life that moves at nature's pace.
+                Tigoni is a captivating highland destination in Kiambu County, nestled at 2,200m above sea level in the lush foothills of the Aberdare Ranges. The area is best known for its sweeping tea estates, cool misty mornings, and a way of life that moves at nature&apos;s pace.
               </p>
               <p className="text-forest-700 text-base leading-relaxed" style={{ fontFamily: "var(--font-body)", fontWeight: 300 }}>
                 We created Experience Tigoni to curate the very best of what this hidden highland gem has to offer — from e-bike tours through the tea fields to sunset hikes along the Limuru ridgeline.
