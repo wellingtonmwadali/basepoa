@@ -63,7 +63,7 @@ export default function MembershipBanner() {
               Welcome to Tigoni! ✦
             </p>
             <p className="text-white/60 text-sm mt-1" style={{ fontFamily: "var(--font-body)" }}>
-              We'll be in touch with exclusive experiences soon.
+              We&apos;ll be in touch with exclusive experiences soon.
             </p>
           </div>
         ) : (

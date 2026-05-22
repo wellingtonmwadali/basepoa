@@ -36,7 +36,7 @@ export default function RestaurantsPage() {
       <section className="py-20 px-6 bg-cream-100">
         <div className="max-w-7xl mx-auto">
           <p className="text-forest-600 text-base max-w-xl mb-12 leading-relaxed" style={{ fontFamily: "var(--font-body)", fontWeight: 300 }}>
-            From farm tasting rooms to colonial clubs, Tigoni's dining scene is as layered and flavourful as the highland soil it grows from.
+            From farm tasting rooms to colonial clubs, Tigoni&apos;s dining scene is as layered and flavourful as the highland soil it grows from.
           </p>
 
           <RestaurantsGrid restaurants={restaurants} />

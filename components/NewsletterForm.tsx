@@ -17,7 +17,7 @@ export default function NewsletterForm() {
   if (submitted) {
     return (
       <p className="text-sm text-forest-300" style={{ fontFamily: "var(--font-body)" }}>
-        ✓ Welcome! We'll be in touch soon.
+        ✓ Welcome! We&apos;ll be in touch soon.
       </p>
     );
   }

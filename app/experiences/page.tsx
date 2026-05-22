@@ -57,7 +57,7 @@ export default function ExperiencesPage() {
             Experiences
           </h1>
           <p className="text-white/80 text-lg max-w-xl font-light" style={{ fontFamily: "var(--font-body)" }}>
-            Whether you're looking for an adrenaline-pumping trail, a serene farm-to-table lunch, or a cozy highland retreat, find your perfect experience here.
+            Whether you&apos;re looking for an adrenaline-pumping trail, a serene farm-to-table lunch, or a cozy highland retreat, find your perfect experience here.
           </p>
         </div>
       </section>
